@@ -1,0 +1,3 @@
+C:/Users/ivanr/MAI/matproga/build/CMakeFiles/simplex_app.dir
+C:/Users/ivanr/MAI/matproga/build/CMakeFiles/edit_cache.dir
+C:/Users/ivanr/MAI/matproga/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+# ninja log v7
+11	430	8163896496372883	CMakeFiles/simplex_app.dir/src/main.cpp.obj	69ed77e3af15df9b
+15	532	8163896496412881	CMakeFiles/simplex_app.dir/src/InputReader.cpp.obj	fcae0f329c108a00
+18	610	8163896496442889	CMakeFiles/simplex_app.dir/src/ExcelReporter.cpp.obj	905657b277a8df15
+22	1001	8163896496482870	CMakeFiles/simplex_app.dir/src/SimplexSolver.cpp.obj	90653d556ea1c8c
+1002	1295	8163896506272884	simplex_app.exe	4ff3b414bee817d2
